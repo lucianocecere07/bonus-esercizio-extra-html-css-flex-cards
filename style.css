@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.principale {
+    margin: 50px auto 0px;
+    width: 70%;
+}
+.principale h1 {
+    color: rgb(229, 49, 112);
+    text-align: center;
+    margin-top: 20px;
+}
