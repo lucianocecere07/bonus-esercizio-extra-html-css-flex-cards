@@ -24,9 +24,10 @@
     display: flex;
     margin: 5px;
     flex-wrap: wrap;
-    justify-content: space-between;
+    margin-left: 1px;
     background-color: rgb(15, 14, 23);
     width: 30%;
+    align-items: center;
 }
 .flex-elem h2, h3 {
     color: white;
