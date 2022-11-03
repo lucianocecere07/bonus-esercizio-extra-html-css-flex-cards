@@ -20,3 +20,13 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
+.flex-elem {
+    display: flex;
+    margin: 5px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgb(15, 14, 23);
+}
+.flex-elem h2, p {
+    color: white;
+}
