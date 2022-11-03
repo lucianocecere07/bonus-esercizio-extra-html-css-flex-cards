@@ -10,7 +10,7 @@
 .principale h1 {
     color: rgb(229, 49, 112);
     text-align: center;
-    margin-top: 20px;
+    margin: 30px;
 }
 .flex-cont {
     display: flex;
@@ -26,7 +26,12 @@
     flex-wrap: wrap;
     justify-content: space-between;
     background-color: rgb(15, 14, 23);
+    width: 30%;
 }
-.flex-elem h2, p {
+.flex-elem h2, h3 {
     color: white;
+}
+img {
+    width: 100px;
+    height: 100px;
 }
